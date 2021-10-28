@@ -1,0 +1,28 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: "FreeSerif";
+    font-weight: normal;
+    font-style: normal;
+    src: url(styles/XXXXXXXXXXXXXXXX)
+    }
+@font-face {
+    font-family: "FreeSerif Italic";
+    font-weight: normal;
+    font-style: italic;
+    src: url(styles/XXXXXXXXXXXXXXXX)
+    }
+@font-face {
+    font-family: "FreeSerif Bold";
+    font-weight: bold;
+    font-style: normal;
+    src: url(styles/XXXXXXXXXXXXXXXX)
+    }
+@font-face {
+    font-family: "FreeSerif Bold Italic";
+    font-weight: bold;
+    font-style: italic;
+    src: url(styles/XXXXXXXXXXXXXXXX)
+    }
