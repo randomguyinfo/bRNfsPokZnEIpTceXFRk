@@ -1,13 +1,18 @@
 body{
   margin:0px;
   padding: 0.5em;
-  background-color:#F6F3E9;
+  background-color:#000000;
+  color:white;
   font-size:12px;
   font-family:Arial, Helvetica, sans-serif;
 }
 
+a {
+  color: #e3f3ff;
+}
+
 .calibreMeta{
-  background-color:#39322B;
+  background-color:#3B3B3B;
   color:white;
   padding:10px;
 }
@@ -19,7 +24,7 @@ body{
 .calibreMeta h1{
   margin:0px;
   font-size:18px;
-  background-color:#39322B;
+  background-color:#3B3B3B;
 }
 
 .calibreEbookContent{
@@ -28,7 +33,7 @@ body{
 
 .calibreEbNav, .calibreEbNavTop{
   clear:both;
-  background-color:#39322B;
+  background-color:#3B3B3B;
   color:white;
   padding:10px;
   text-align:center;
@@ -50,7 +55,7 @@ body{
   float:left;
   margin:20px;
   width:300px;
-  background-color:#39322B;
+  background-color:#3B3B3B;
   color:white;
   padding:10px;
 }
